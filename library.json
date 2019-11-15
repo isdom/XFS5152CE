@@ -1,0 +1,14 @@
+  
+{
+  "name": "XFS5152CE",
+  "keywords": "XFS5152, XFS5152CE",
+  "description": "A library that makes controlling XFS5152CE easy.",
+  "homepage": "https://github.com/isdom/XFS5152CE",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/isdom/XFS5152CE"
+  },
+  "version": "0.0.1",
+  "frameworks": "arduino",
+  "platforms": "*"
+}
